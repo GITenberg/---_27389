@@ -1,0 +1,46 @@
+_repo: '---_27389'
+_version: 0.1.0
+alternative_title: Ion
+contributor:
+  translator:
+    agent_name: Demetrakopoulos, Polyvios
+    aliases:
+    - Arcas, Pol
+    - Dimitrakopoulos, Polybius
+    - Δημητρακόπουλος, Πολύβιος
+    - Dimitrakopoulos, Polyvios
+    - Αρκάς, Πολ
+    - Arcas, Paul
+    birthdate: 1864
+    deathdate: 1922
+    gutenberg_agent_id: '7615'
+    url: http://www.gutenberg.org/2009/agents/7615
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%BF%CE%BB%CF%8D%CE%B2%CE%B9%CE%BF%CF%82_%CE%94%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Euripides
+description: ''
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27389'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ion (Mythological character) -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PA'
+title: Ίων
+url: http://www.gutenberg.org/ebooks/27389
